@@ -1,0 +1,3 @@
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/calculo_digito_verificador_rg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/calculo_digito_verificador_rg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/calculo_digito_verificador_rg/cmake-build-debug/CMakeFiles/calculo_digito_verificador_rg.dir

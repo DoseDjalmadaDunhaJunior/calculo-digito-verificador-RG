@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/calculo_digito_verificador_rg/Conta.h
+iostream
+-
+
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/calculo_digito_verificador_rg/main.cpp
+Conta.h
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/calculo_digito_verificador_rg/Conta.h
+

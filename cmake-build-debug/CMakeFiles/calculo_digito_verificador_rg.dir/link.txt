@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/calculo_digito_verificador_rg.dir/main.cpp.o CMakeFiles/calculo_digito_verificador_rg.dir/Conta.cpp.o  -o calculo_digito_verificador_rg 
